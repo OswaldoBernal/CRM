@@ -1,0 +1,106 @@
+/* Sidebar styling */
+.sidebar-lat {
+  background: #f8f9faad; /* Light background color */
+  color: #000000; /* Text color */
+  padding: 20px; /* Padding for better appearance */
+}
+
+.sidebar-lat .logo {
+  width: 100px; /* Logo width adjustment */
+  height: auto;
+  margin-right: 10px;
+  border-radius: 50%; /* Round border for logo */
+}
+
+.sidebar-lat .nombre {
+  font-family: 'Arial', sans-serif;
+  font-size: 24px;
+  color: #000000;
+  font-weight: bold; /* Bold font weight for the name */
+}
+
+.sidebar-lat h2 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #000000; /* Brand color for headers */
+  margin-bottom: 10px; /* Space between the title and content */
+}
+
+.sidebar-lat ul {
+  padding-left: 0;
+  list-style: none; /* Remove bullets from the list */
+}
+
+.sidebar-lat ul li {
+  margin-bottom: 10px; /* Space between list items */
+}
+
+.sidebar-lat ul li a,
+.sidebar-lat ul li div {
+  display: flex;
+  align-items: center;
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: #000000;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.sidebar-lat ul li a:hover,
+.sidebar-lat ul li div:hover {
+  background: #e9ecef;
+}
+
+.sidebar-lat ul li i {
+  margin-right: 10px;
+}
+
+/* Button styling */
+.menu-button {
+  background-color: #000000;
+  border: none;
+  border-radius: 50%; /* Round border for button */
+  padding: 10px; /* Button padding */
+}
+
+.menu-button:hover {
+  background-color: #000000;
+}
+
+/* Styling for the 'x' button within the sidebar */
+.p-sidebar-close {
+  background-color: transparent;
+  border: none; /* Remove border */
+  color: #000000;
+}
+
+/* Transitions for slidedown and slideup */
+@keyframes slidedown {
+  from {
+    height: 0;
+  }
+  to {
+    height: var(--content-height);
+  }
+}
+
+@keyframes slideup {
+  from {
+    height: var(--content-height);
+  }
+  to {
+    height: 0;
+  }
+}
+
+.slidedown {
+  animation: slidedown 0.3s forwards;
+}
+
+.slideup {
+  animation: slideup 0.3s forwards;
+}
+
+.hidden {
+  display: none;
+}
