@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CRM/static/css/main.cfde528f.css",
-    "main.js": "/CRM/static/js/main.86e0e7be.js",
+    "main.css": "/CRM/static/css/main.45c9c23e.css",
+    "main.js": "/CRM/static/js/main.b52e7974.js",
     "static/js/453.fa890282.chunk.js": "/CRM/static/js/453.fa890282.chunk.js",
     "static/media/Fondo1.webp": "/CRM/static/media/Fondo1.d404ac06464989ec275f.webp",
     "static/media/primeicons.svg": "/CRM/static/media/primeicons.6ed59f962963a4a73af2.svg",
@@ -10,12 +10,12 @@
     "static/media/primeicons.ttf": "/CRM/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
     "static/media/primeicons.woff2": "/CRM/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "index.html": "/CRM/index.html",
-    "main.cfde528f.css.map": "/CRM/static/css/main.cfde528f.css.map",
-    "main.86e0e7be.js.map": "/CRM/static/js/main.86e0e7be.js.map",
+    "main.45c9c23e.css.map": "/CRM/static/css/main.45c9c23e.css.map",
+    "main.b52e7974.js.map": "/CRM/static/js/main.b52e7974.js.map",
     "453.fa890282.chunk.js.map": "/CRM/static/js/453.fa890282.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfde528f.css",
-    "static/js/main.86e0e7be.js"
+    "static/css/main.45c9c23e.css",
+    "static/js/main.b52e7974.js"
   ]
 }
