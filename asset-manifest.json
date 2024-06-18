@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CRM/static/css/main.7d4d1509.css",
+    "main.css": "/CRM/static/css/main.f7a617a7.css",
     "main.js": "/CRM/static/js/main.b52e7974.js",
     "static/js/453.fa890282.chunk.js": "/CRM/static/js/453.fa890282.chunk.js",
     "static/media/primeicons.svg": "/CRM/static/media/primeicons.6ed59f962963a4a73af2.svg",
@@ -9,12 +9,12 @@
     "static/media/primeicons.ttf": "/CRM/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
     "static/media/primeicons.woff2": "/CRM/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "index.html": "/CRM/index.html",
-    "main.7d4d1509.css.map": "/CRM/static/css/main.7d4d1509.css.map",
+    "main.f7a617a7.css.map": "/CRM/static/css/main.f7a617a7.css.map",
     "main.b52e7974.js.map": "/CRM/static/js/main.b52e7974.js.map",
     "453.fa890282.chunk.js.map": "/CRM/static/js/453.fa890282.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d4d1509.css",
+    "static/css/main.f7a617a7.css",
     "static/js/main.b52e7974.js"
   ]
 }
